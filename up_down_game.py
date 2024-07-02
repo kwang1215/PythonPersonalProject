@@ -5,7 +5,7 @@ max = 9999
 count = 0
 
 while True:
-    print(computer_number)
+    # print(computer_number)
 
     try:
         player_number = int(input('1~100까지 숫자를 입력하세요.'))
